@@ -1,5 +1,7 @@
 # Stone-paper-scissors
 
+Live server: https://michalsiminski98.github.io/JS-LEARN--Stone-paper-scissors/
+
 ## Hands numbers
 0-stone
 1-paper
